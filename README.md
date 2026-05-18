@@ -1,8 +1,24 @@
 # C++ Ranges — Companion Examples
 
 Runnable code for every chapter of the **C++ Ranges** lecture
-(`cpp_ranges_lecture.md`). Each folder is a self-contained, compilable
-program; the folder name matches the slide title.
+([`cpp_ranges_lecture.md`](./cpp_ranges_lecture.md)). Each folder is a
+self-contained, compilable program; the folder name matches the slide
+title.
+
+## About
+
+Companion code for **C++ Ranges — A modern STL, in 3 hours**
+([lecture deck](./cpp_ranges_lecture.md)). The course covers:
+
+- **Why Ranges?** — the STL boilerplate/safety tax; what a range is
+- **Range Algorithms** — `std::ranges::` algorithms and projections
+- **Views & Pipelines** — lazy evaluation, `|` composition, the role of `auto`
+- **Lifetimes & Patterns** — owning vs. borrowing views
+- **The Range Hierarchy** — the five range-concept tiers
+- **C++23 & Beyond** — `std::ranges::to`, `enumerate` / `zip` / `slide`
+- **Exercises** — two guided STL→ranges refactors, with solutions
+
+Each chapter maps to a runnable folder (see the table below).
 
 ## Requirements
 
