@@ -1,14 +1,14 @@
 # C++ Ranges — Companion Examples
 
 Runnable code for every chapter of the **C++ Ranges** lecture
-([`cpp_ranges_lecture.md`](./cpp_ranges_lecture.md)). Each folder is a
+([`cpp_ranges_lecture.md`](https://github.com/StudioAlbert/Knowledges/blob/main/C%2B%2B%20Advanced/cpp_ranges_lecture.md)). Each folder is a
 self-contained, compilable program; the folder name matches the slide
 title.
 
 ## About
 
 Companion code for **C++ Ranges — A modern STL, in 3 hours**
-([lecture deck](./cpp_ranges_lecture.md)). The course covers:
+([lecture deck](https://github.com/StudioAlbert/Knowledges/blob/main/C%2B%2B%20Advanced/cpp_ranges_lecture.md)). The course covers:
 
 - **Why Ranges?** — the STL boilerplate/safety tax; what a range is
 - **Range Algorithms** — `std::ranges::` algorithms and projections
