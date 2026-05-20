@@ -19,5 +19,5 @@ add_subdirectory(examples/08_borrowing_views)
 add_subdirectory(examples/09_ranges_to)
 add_subdirectory(examples/10_cpp23_enumerate_zip_chunk)
 
-add_subdirectory(exercises/01_refactor_classic_loop)
-add_subdirectory(exercises/02_top3_followers)
+#add_subdirectory(exercises/01_refactor_classic_loop)
+#add_subdirectory(exercises/02_top3_followers)
